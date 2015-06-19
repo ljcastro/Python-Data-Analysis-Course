@@ -1,4 +1,3 @@
-# Python-Data-Analysis-Course
 
 # Python Data Analysis Course
 ### Instructor: Jose Portilla at Udemy
